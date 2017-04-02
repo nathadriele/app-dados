@@ -1,0 +1,18 @@
+c:\users\fajoli\documents\visual studio 2015\Projects\JogoDado\JogoDado\bin\Debug\JogoDado.exe.config
+c:\users\fajoli\documents\visual studio 2015\Projects\JogoDado\JogoDado\bin\Debug\JogoDado.exe
+c:\users\fajoli\documents\visual studio 2015\Projects\JogoDado\JogoDado\bin\Debug\JogoDado.pdb
+c:\users\fajoli\documents\visual studio 2015\Projects\JogoDado\JogoDado\obj\Debug\JogoDado.csprojResolveAssemblyReference.cache
+c:\users\fajoli\documents\visual studio 2015\Projects\JogoDado\JogoDado\obj\Debug\JogoDado.Properties.Resources.resources
+c:\users\fajoli\documents\visual studio 2015\Projects\JogoDado\JogoDado\obj\Debug\JogoDado.csproj.GenerateResource.Cache
+c:\users\fajoli\documents\visual studio 2015\Projects\JogoDado\JogoDado\obj\Debug\JogoDado.exe
+c:\users\fajoli\documents\visual studio 2015\Projects\JogoDado\JogoDado\obj\Debug\JogoDado.pdb
+C:\Users\Fajoli\documents\visual studio 2015\Projects\JogoDado\JogoDado\obj\Debug\JogoDado.frmJogoDado.resources
+C:\Users\nathalia\Documents\UNIVEM 1°2°3°4°5°\Univem 5° termo\Implementação de Sistemas de Informação\JogoDado\JogoDado\bin\Debug\JogoDado.exe.config
+C:\Users\nathalia\Documents\UNIVEM 1°2°3°4°5°\Univem 5° termo\Implementação de Sistemas de Informação\JogoDado\JogoDado\bin\Debug\JogoDado.exe
+C:\Users\nathalia\Documents\UNIVEM 1°2°3°4°5°\Univem 5° termo\Implementação de Sistemas de Informação\JogoDado\JogoDado\bin\Debug\JogoDado.pdb
+C:\Users\nathalia\Documents\UNIVEM 1°2°3°4°5°\Univem 5° termo\Implementação de Sistemas de Informação\JogoDado\JogoDado\obj\Debug\JogoDado.csprojResolveAssemblyReference.cache
+C:\Users\nathalia\Documents\UNIVEM 1°2°3°4°5°\Univem 5° termo\Implementação de Sistemas de Informação\JogoDado\JogoDado\obj\Debug\JogoDado.Properties.Resources.resources
+C:\Users\nathalia\Documents\UNIVEM 1°2°3°4°5°\Univem 5° termo\Implementação de Sistemas de Informação\JogoDado\JogoDado\obj\Debug\JogoDado.csproj.GenerateResource.Cache
+C:\Users\nathalia\Documents\UNIVEM 1°2°3°4°5°\Univem 5° termo\Implementação de Sistemas de Informação\JogoDado\JogoDado\obj\Debug\JogoDado.exe
+C:\Users\nathalia\Documents\UNIVEM 1°2°3°4°5°\Univem 5° termo\Implementação de Sistemas de Informação\JogoDado\JogoDado\obj\Debug\JogoDado.pdb
+C:\Users\nathalia\Documents\UNIVEM 1°2°3°4°5°\Univem 5° termo\Implementação de Sistemas de Informação\JogoDado\JogoDado\obj\Debug\JogoDado.frmJogoDoDado.resources
